@@ -1,4 +1,4 @@
-module srs-apm
+module github.com/winlinvip/srs-apm-http1
 
 go 1.16
 
